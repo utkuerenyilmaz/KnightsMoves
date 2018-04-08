@@ -1,0 +1,30 @@
+C:\Users\UE\Desktop\2-2\Yazılım Yapımı\WORKS\Work2\AtinHareketi\AtinHareketi\bin\Debug\AtinHareketi.exe.config
+C:\Users\UE\Desktop\2-2\Yazılım Yapımı\WORKS\Work2\AtinHareketi\AtinHareketi\bin\Debug\AtinHareketi.exe
+C:\Users\UE\Desktop\2-2\Yazılım Yapımı\WORKS\Work2\AtinHareketi\AtinHareketi\bin\Debug\AtinHareketi.pdb
+C:\Users\UE\Desktop\2-2\Yazılım Yapımı\WORKS\Work2\AtinHareketi\AtinHareketi\obj\Debug\AtinHareketi.csprojResolveAssemblyReference.cache
+C:\Users\UE\Desktop\2-2\Yazılım Yapımı\WORKS\Work2\AtinHareketi\AtinHareketi\obj\Debug\AtinHareketi.Form1.resources
+C:\Users\UE\Desktop\2-2\Yazılım Yapımı\WORKS\Work2\AtinHareketi\AtinHareketi\obj\Debug\AtinHareketi.Properties.Resources.resources
+C:\Users\UE\Desktop\2-2\Yazılım Yapımı\WORKS\Work2\AtinHareketi\AtinHareketi\obj\Debug\AtinHareketi.csproj.GenerateResource.Cache
+C:\Users\UE\Desktop\2-2\Yazılım Yapımı\WORKS\Work2\AtinHareketi\AtinHareketi\obj\Debug\AtinHareketi.csproj.CoreCompileInputs.cache
+C:\Users\UE\Desktop\2-2\Yazılım Yapımı\WORKS\Work2\AtinHareketi\AtinHareketi\obj\Debug\AtinHareketi.exe
+C:\Users\UE\Desktop\2-2\Yazılım Yapımı\WORKS\Work2\AtinHareketi\AtinHareketi\obj\Debug\AtinHareketi.pdb
+C:\Users\UE\Desktop\AtinHareketi\AtinHareketi\AtinHareketi\bin\Debug\AtinHareketi.exe.config
+C:\Users\UE\Desktop\AtinHareketi\AtinHareketi\AtinHareketi\bin\Debug\AtinHareketi.exe
+C:\Users\UE\Desktop\AtinHareketi\AtinHareketi\AtinHareketi\bin\Debug\AtinHareketi.pdb
+C:\Users\UE\Desktop\AtinHareketi\AtinHareketi\AtinHareketi\obj\Debug\AtinHareketi.csprojResolveAssemblyReference.cache
+C:\Users\UE\Desktop\AtinHareketi\AtinHareketi\AtinHareketi\obj\Debug\AtinHareketi.Form1.resources
+C:\Users\UE\Desktop\AtinHareketi\AtinHareketi\AtinHareketi\obj\Debug\AtinHareketi.Properties.Resources.resources
+C:\Users\UE\Desktop\AtinHareketi\AtinHareketi\AtinHareketi\obj\Debug\AtinHareketi.csproj.GenerateResource.cache
+C:\Users\UE\Desktop\AtinHareketi\AtinHareketi\AtinHareketi\obj\Debug\AtinHareketi.csproj.CoreCompileInputs.cache
+C:\Users\UE\Desktop\AtinHareketi\AtinHareketi\AtinHareketi\obj\Debug\AtinHareketi.exe
+C:\Users\UE\Desktop\AtinHareketi\AtinHareketi\AtinHareketi\obj\Debug\AtinHareketi.pdb
+C:\Users\UE\Desktop\2-2\Yazılım Yapımı\WORKS\Work2\AtinHareketi\AtinHareketi\AtinHareketi\bin\Debug\AtinHareketi.exe.config
+C:\Users\UE\Desktop\2-2\Yazılım Yapımı\WORKS\Work2\AtinHareketi\AtinHareketi\AtinHareketi\bin\Debug\AtinHareketi.exe
+C:\Users\UE\Desktop\2-2\Yazılım Yapımı\WORKS\Work2\AtinHareketi\AtinHareketi\AtinHareketi\bin\Debug\AtinHareketi.pdb
+C:\Users\UE\Desktop\2-2\Yazılım Yapımı\WORKS\Work2\AtinHareketi\AtinHareketi\AtinHareketi\obj\Debug\AtinHareketi.csprojResolveAssemblyReference.cache
+C:\Users\UE\Desktop\2-2\Yazılım Yapımı\WORKS\Work2\AtinHareketi\AtinHareketi\AtinHareketi\obj\Debug\AtinHareketi.Form1.resources
+C:\Users\UE\Desktop\2-2\Yazılım Yapımı\WORKS\Work2\AtinHareketi\AtinHareketi\AtinHareketi\obj\Debug\AtinHareketi.Properties.Resources.resources
+C:\Users\UE\Desktop\2-2\Yazılım Yapımı\WORKS\Work2\AtinHareketi\AtinHareketi\AtinHareketi\obj\Debug\AtinHareketi.csproj.GenerateResource.cache
+C:\Users\UE\Desktop\2-2\Yazılım Yapımı\WORKS\Work2\AtinHareketi\AtinHareketi\AtinHareketi\obj\Debug\AtinHareketi.csproj.CoreCompileInputs.cache
+C:\Users\UE\Desktop\2-2\Yazılım Yapımı\WORKS\Work2\AtinHareketi\AtinHareketi\AtinHareketi\obj\Debug\AtinHareketi.exe
+C:\Users\UE\Desktop\2-2\Yazılım Yapımı\WORKS\Work2\AtinHareketi\AtinHareketi\AtinHareketi\obj\Debug\AtinHareketi.pdb
